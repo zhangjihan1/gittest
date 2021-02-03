@@ -1,0 +1,1 @@
+let f2 = "new file for feature f2";
